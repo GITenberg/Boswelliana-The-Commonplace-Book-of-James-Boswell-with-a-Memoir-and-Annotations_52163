@@ -1,0 +1,46 @@
+_repo: Boswelliana-The-Commonplace-Book-of-James-Boswell-with-a-Memoir-and-Annotations_52163
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Milnes, Richard Monckton, Baron Houghton
+    aliases:
+    - Houghton, Richard Monckton Milnes, Baron
+    - Milnes, R. M. (Richard Monckton)
+    - Milnes, R. Monckton (Richard Monckton)
+    - Milnes, Moncton
+    - Houghton, Lord (Richard Monckton Milnes)
+    - Milnes, Monckton
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '49220'
+    url: http://www.gutenberg.org/2009/agents/49220
+  contributor:
+    agent_name: Rogers, Charles
+    alias: Roger, Charles
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '25197'
+    url: http://www.gutenberg.org/2009/agents/25197
+creator:
+  author:
+    agent_name: Boswell, James
+    birthdate: 1740
+    deathdate: 1795
+    gutenberg_agent_id: '659'
+    url: http://www.gutenberg.org/2009/agents/659
+    wikipedia: http://en.wikipedia.org/wiki/James_Boswell
+description: ''
+gutenberg_issued: '2016-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Boswell, James, 1740-1795'
+- GITenberg
+title: 'Boswelliana: The Commonplace Book of James Boswell, with a Memoir and Annotations'
+url: http://www.gutenberg.org/ebooks/52163
